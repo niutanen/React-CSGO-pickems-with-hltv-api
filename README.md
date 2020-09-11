@@ -1,5 +1,5 @@
 # React-CSGO-pickems-with-hltv-api
-## This is a personal project I worked on while bored during my 2020 layoff.
+This is a personal project I worked on while bored during my 2020 layoff.
 The project is a basic website that resizes with the viewwidth of the window.
 The website that can be accessed at: https://road2rio-friendly-predictions.herokuapp.com/
 
