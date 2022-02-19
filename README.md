@@ -1,7 +1,6 @@
 # React-CSGO-pickems-with-hltv-api
 This is a personal project I worked on while bored during my 2020 layoff.
 The project is a basic website that resizes with the viewwidth of the window.
-The website that can be accessed at: https://road2rio-friendly-predictions.herokuapp.com/
 
 The user can choose teams, which then update immediately in the match list and standings.
 The teams, matches and results queried with https://github.com/gigobyte/HLTV unofficial api. this allows the event to be changed, but works best with events that have 16 teams.
